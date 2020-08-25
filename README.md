@@ -1,2 +1,4 @@
-# hello_world
-It's just simple programme
+#include<iostream>
+void main()
+{ count<<"Hello world";
+}
